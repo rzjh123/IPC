@@ -1,5 +1,5 @@
 /**********************************************************
-@copyright	(C)2012, huaao.cn
+@copyright	(C)2012,
 @file		StringHelper.h
 @brief		字符串帮助函数的声明头文件
 @details
